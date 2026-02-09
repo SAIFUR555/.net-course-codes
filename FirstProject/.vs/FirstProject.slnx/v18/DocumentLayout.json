@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\portfolio\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\portfolio\\bio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|f:\\saif.exe\\11th sem\\mid\\dot net\\lab\\firstproject\\firstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E87C56D-1D2B-4369-8F74-5AAC1753BA52}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:36:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:31:43.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:17:37.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bio.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Bio.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\Portfolio\\Bio.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Bio.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\Portfolio\\Bio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:29:05.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\Portfolio\\Projects.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\Portfolio\\Projects.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\Portfolio\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:18:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\PortfolioController.cs",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:14:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T06:12:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FirstProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\saif.exe\\11th Sem\\MID\\DOT net\\Lab\\FirstProject\\FirstProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FirstProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T06:12:37.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
