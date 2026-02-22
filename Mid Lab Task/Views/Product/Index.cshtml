@@ -1,0 +1,10 @@
+﻿@model List<Mid_Lab_Task.Models.Product>
+
+@foreach (var item in Model)
+{
+    <p>
+        <a href="/Product/Details/@item.Id">
+            @item.Name
+        </a>
+    </p>
+}

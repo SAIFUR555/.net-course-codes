@@ -1,0 +1,24 @@
+﻿@model Mid_Lab_Task.Models.Student
+
+<h2>@Model.Name</h2>
+<p>Age: @Model.Age</p>
+<p>Department: @Model.Department</p>
+<p>CGPA: @Model.CGPA</p>
+
+@if (Model.Age < 18)
+{
+    <p>Minor</p>
+}
+else
+{
+    <p>Adult</p>
+}
+
+@if (Model.CGPA >= 3.75)
+{
+    <p>Excellent</p>
+}
+else
+{
+    <p>Average</p>
+}

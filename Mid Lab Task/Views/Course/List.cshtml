@@ -1,0 +1,10 @@
+﻿@model List<Mid_Lab_Task.Models.Course>
+
+<h2>Course List</h2>
+
+@foreach (var c in Model)
+{
+    <p>
+        @c.Title - Semester: @c.Semester - Credit: @c.Credit
+    </p>
+}

@@ -1,0 +1,35 @@
+﻿@model List<Mid_Lab_Task.Models.Employee>
+
+<h2>Employee List</h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>Salary</th>
+        <th>Designation</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Name</td>
+
+            <td style="color:@(emp.Salary > 50000 ? "green" : "black")">
+                @emp.Salary
+            </td>
+
+            <td>
+                @if (emp.Designation == "Manager")
+                {
+                    <b>@emp.Designation</b>
+                }
+                else
+                {
+                    @emp.Designation
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+<p>Total Employees: @Model.Count</p>
